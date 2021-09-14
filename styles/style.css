@@ -1,0 +1,48 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#submitEmployee {
+    float: right;
+    margin: 10px;
+}
+
+#tableSection {
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#addEmployeeSection {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.turnWhite {
+    background-color:white;
+}
+
+.turnRed {
+    background-color: red;
+}
+
+#body {
+    margin-left: 150px;
+    margin-right: 150px;
+    border-style: solid;
+    padding-bottom: 70px;
+}
+
+#totalDisplay {
+    float: right;
+    margin-right: 120px;
+}
+
+#submitBtnDiv {
+    padding: 10px;
+    margin-right: 120px;
+}
